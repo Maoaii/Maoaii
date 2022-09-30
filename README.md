@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there! I'm Lucas, welcome to my GitHub Page! 👋
 
 <!--
 **Maoaii/Maoaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>Occupation</h2> Computer Science student at NOVA School of Science and Technology
+
+<h2>Programming Languages</h2>
