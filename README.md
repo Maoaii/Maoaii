@@ -1,4 +1,4 @@
-## Hey 👋, I'm Lucas Girotto!  
+<img src="header.png">
   
 
 <a href="https://github.com/Maoaii" target="_blank">
