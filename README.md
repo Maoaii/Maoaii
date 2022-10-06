@@ -1,4 +1,4 @@
-<img src="header.png">
+<img style="border-radius: 30%;" src="header.png" >
   
 
 <a href="https://github.com/Maoaii" target="_blank">
