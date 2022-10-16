@@ -27,7 +27,7 @@ I'm a Computer Science student at NOVA School of Science and Technology.
 - 🕹️ Chonkat: a Tiled Puzzle game  
   
 
-- 💻 Learning Web Development with Vue.js  
+- 💻 Learning Web Development
 
 
 </td><td valign="top" width="50%">
