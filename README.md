@@ -1,5 +1,12 @@
-<img style="border-radius: 30%;" src="header.png" >
-  
+# Hello there!
+I'm Lucas Girotto and welcome to my Github Page!
+
+### What you'll find here
+<ul>
+  <li>My small game projects that test out cool mechanics.</li>
+  <li>My struggles as an aspiring Web Developer.</li>
+  <li>The repositories for all my projects as a Computer Science student.</li>
+</ul>
 
 <a href="https://github.com/Maoaii" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -7,14 +14,7 @@
 <a href="https://www.linkedin.com/in/lucas-girotto-4530b9233/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-
-
-### Glad to see you here!  
-I'm a Computer Science student at NOVA School of Science and Technology.  
-  
-
+ 
 <br/>  
 
 
@@ -24,10 +24,10 @@ I'm a Computer Science student at NOVA School of Science and Technology.
 
 
 ### Working on...  
-- 🕹️ Chonkat: a Tiled Puzzle game  
+- 🕹️ Chonkat: a Tiled Puzzle game featuring the chonkest of cats
   
 
-- 💻 Learning Web Development
+- 💻 Learning Web Development with HTML, CSS and JavaScript
 
 
 </td><td valign="top" width="50%">
